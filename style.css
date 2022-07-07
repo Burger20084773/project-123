@@ -1,0 +1,25 @@
+h1{
+box-shadow: 10px solid lightcoral;
+margin-top: 5px;
+}
+
+.note{
+    font-size: 25px;
+    color: paleturquoise;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    width: 100%;
+    background-color: lightcoral;
+    text-align: center;
+    line-height: 3;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px lightpink;
+}
